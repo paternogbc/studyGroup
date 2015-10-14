@@ -74,7 +74,7 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
     YYYY-MM-DD-word.markdown
     ```
 
-    where `YYYY-MM-DD` is the date of your event, and `word` is anything you want.
+    onde `YYYY-MM-DD` é a data do seu evento e `word` é qualquer palavra que quiser.
  4. **Cut and paste the following into your new file:**
  
     ```
