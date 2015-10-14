@@ -20,15 +20,16 @@ Welcome to our Mozilla Study Group! A few things to do & know now that you're he
  - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
  - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
 
-## For Organizers
+## Para Organizadores
 
-### It's Broken, I Need Help
+### Não está funcionando, eu preciso de ajuda
 
-If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email sciencelab@mozillafoundation.org.
+Se algumas de nossas instruções não funcionar ou não fizer sentido, abra um [issue](https://github.com/mozillascience/studyGroup/issues) or email sciencelab@mozillafoundation.org.
 
-### Check out the Handbook
+### Confira o manual
+Check out the Handbook
 
-The instructions below will help you set up the online tools for your Mozilla Study Group - but if you're looking for organziation strategies, event plans and lesson ideas, check out the [Mozilla Study Group Handbook](https://mozillascience.github.io/studyGroupHandbook/)!
+As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)!
 
 ## How to Set Up Your Own Mozilla Study Group Website
 
