@@ -11,7 +11,7 @@ histórias e ideias sobre o uso de programação em pesquisa. O objetivo é cria
 amigável e sem pressão onde as pessoas podem compartilhar seus trabalhos, pedir ajuda
 para resolver problemas de programação e aprender e trabalhar junto com seus parceiros.
 
-## For Participants
+## Para participantes
 
 Welcome to our Mozilla Study Group! A few things to do & know now that you're here:
 
