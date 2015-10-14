@@ -31,24 +31,24 @@ Check out the Handbook
 
 As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)!
 
-## How to Set Up Your Own Mozilla Study Group Website
+## Como criar o seu próprio Website Grupo de Estudo Mozilla?
 
-Everything you need to set up your own Mozilla Study Group website for organizing events is right here - follow the following steps and you'll be up and running soon, and if you have trouble, [open an issue](https://github.com/mozillascience/studyGroup/issues) and we'll help you out!
+Aqui você vai encontrar tudo que precisa para criar o seu próprio Website Grupo de Estudo Mozilla e organizar os seus eventos. Siga os próximos passos e seu site estará funcionando em breve. Se você encontrar problemas, [abra um issue](https://github.com/mozillascience/studyGroup/issues) e nós podemos te ajudar.
 
- 1. **Make yourself an account on GitHub.** The free one is just fine.
- 2. **Fork this repository.** Up in the top right corner of this page, there's a button that says 'Fork'; press it! This makes your very own copy of all this stuff in your space on GitHub; when the copy is done, GitHub will automatically take you there.
- 3. **Turn on the Issue Tracker.** An issue tracker is a message board GitHub sets up for every repository; you'll use it to post information about your event and talk to your participants. To turn it on: 
-   - click on 'Settings' in the right sidebar of your repo;
-   - click the checkbox beside 'Issues'; 
-   - head back to your repo by clicking on the big `studyGroup` at the top of the page.
- 4. **Edit the `_config.yml` file** in your new repository:
-   - click on `_config.yml`;
-   - click on the little pencil near the top right;
-   - follow the instructions in the file on how to edit it; 
-   - when you're done, press the green 'Commit Changes' button at the bottom of the page.
+ 1. **Crie um conta no GitHub.** O plano gratuito é suficiente.
+ 2. **Fork esse repositório.** No canto superior direito desta página tem um botão que diz 'Fork'; clique nele! Isso irá fazer uma cópia de todo esse material na sua própria conta do GitHub; Quando a cópia estiver pronta, o GitHub irá automaticamente te redirecionar para lá. 
+ 3. **Ative o monitoramento de issues.** O monitoramento de issues é um quadro de mensagens que o GitHub cria para cada repositório; você irá usar esse quadro para postar informações sobre seus eventos e conversar com os participantes. Para ativar o monitoramento de issues: 
+   - clique em 'Settings' no canto direito da barra lateral do seu repositório. 
+   - clique no botão de marcar 'Issues', na aba 'Features'; 
+   - retorne ao seu repositório cliquando em `studyGroup` no topo da página. 
+ 4. **Edite o arquivo `_config.yml`** em seu repositório:
+   - clique em `_config.yml`;
+   - clique no pequeno lápis perto do canto superior direito;
+   - siga as instruções de edição no próprio arquivo 
+   - quando você terminar, clique no botão verde 'Commit Changes' no final da página.
 
-That's it, you're done! You can see your new website at `https://yourUserName.github.io/studyGroup/`, where `yourUserName` is the user name you signed up for GitHub with. If this is your first time making a webpage on GitHub, it might take 30 minutes for things to percolate through their computers - don't worry, it's all good, check back later and your website should be up and running.
-
+É isso, você conseguiu! Você pode ver o seu website em 
+`https://yourUserName.github.io/studyGroup/`, substitua `yourUserName` pelo nome de usuário da sua conta do GitHub. Se essa for a primeira vez que você estiver criando uma página no GitHub, esse processo pode demorar 30 minutos para que tudo flua pelos computadores do GitHub – não se preocupe, é assim mesmo. Verifique novamente depois e o seu website estará no ar funcionando normalmente. 
 ### Optional: Setting up a Google Calendar for your Study Group
 
 If you'd like to offer your community a calendar of events they can import into their own calendars, try using a Google Calendar. To set up, make a new google account, and update the variables in `_config.yml` under the heading 'Setup Google Calendar'.
