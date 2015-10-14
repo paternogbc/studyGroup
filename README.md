@@ -1,15 +1,12 @@
 Grupo de Estudo Mozilla
 ============
 
-Bem vindo ao [Mozilla Science Lab](https://www.mozillascience.org/)'s Projeto grupo de estudo! A partir daqui, iremos disponibilizar tudo que você precisa para começar o seu
-próprio grupo de estudo.
+Bem vindo ao Projeto grupo de estudo do [Mozilla Science Lab](https://www.mozillascience.org/) ! A partir daqui, iremos disponibilizar tudo de que você precisa para começar o seu próprio grupo de estudo.
 
-### Pera ai, o que é um 'Grupo de Estudo Mozilla'?
+### Pera ai, mas o que é um 'Grupo de Estudo Mozilla'?
 
-Grupos de estudo Mozilla são divertidos, encontros informais com seus amigos e colegas ao redor de instituições locais e cidades para compatilhar habilidades,
-histórias e ideias sobre o uso de programação em pesquisa. O objetivo é criar um ambiente
-amigável e sem pressão onde as pessoas podem compartilhar seus trabalhos, pedir ajuda
-para resolver problemas de programação e aprender e trabalhar junto com seus parceiros.
+Grupos de estudo Mozilla são encontros informais e divertidos com seus amigos e colegas em instituições locais e cidades para compatilhar habilidades, histórias, e ideias sobre o uso de programação em pesquisa. O objetivo é criar um ambiente
+amigável e sem pressão onde as pessoas possam compartilhar seus trabalhos, pedir ajuda para resolver problemas de programação, e aprender a trabalhar junto com seus parceiros.
 
 ## Para participantes
 
