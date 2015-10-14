@@ -95,23 +95,23 @@ That's it! Your event is now listed on your webpage, and there's a discussion th
 >  - Can't find the issue tracker? Remember to turn it on under the 'Settings' menu on the right.
 >  - The seven fields need to be on exactly one line each; some text editors will insert line breaks into lines that are too long; remove these if so.
 
-## How to Stay in Touch With Your Members
+## Como manter contato com os membros
 
-Now that you're all set up, GitHub provides several ways to stay in touch with the people involved in your Study Group.
+Agora que vocês já se estabeleceram, o GitHub pode fornecer várias maneiras de se comunicar e manter contato com as outras pessoas envolvidas no Grupo de Estudo.
 
-  - **Ask users to Watch your repo.** Make sure all your users click 'Watch' at the top of your repository. This way, they'll be automatically notified of all the events you post in your issue tracker. 
-  - **Use the Issue Tracker.** The Issue Tracker is your public message board to make announcements, ask questions and start conversations with your members. You can find yours at `https://github.com/yourUserName/studyGroup/issues`.
-  - **Use the Mozilla Science Forum** to chat with study groups worldwide. Find the [forum here](https://forum.mozillascience.org/category/events/study-groups); use this to share your stories, ask questions to the wider community, and find out who's out there.
+  - **Peça às pessoas para que Watch o seu repositório.** Assegure-se de que todos os usuários tenham clicado no botão 'Watch' no topo do seu repositório. Desta forma eles serão automaticamente notificados de todos os eventos que você postar no seu rastreador de edições (issue tracker). 
+  - **Use o Rastreador de Edições.** O rastreador de edições é o seu quadro de mensagens público para fazer anúncios,  perguntas e iniciar conversas com os membros. O seu está aqui `https://github.com/yourUserName/studyGroup/issues`.
+  - **Use o Forum do Mozilla Science** para papear com outros grupos de pesquisas ao redor do mundo. Encontre [o forum aqui](https://forum.mozillascience.org/category/events/study-groups); use-o para compartilhar suas histórias, fazer perguntas para uma comunidade mais ampla, e ver quem está por aí.
 
-## Feature Your Community in the 'Who We Are' Section
+## Fale sobre a sua comunidade na Seção 'Quem somos nós'
 
-Your website includes a gallery of participants in your Study Group; adding people here is a great way to show off your community and highlight your new friends and colleagues. To add someone to the list, edit the `_data/members.yml` file by adding the following section for them:
+A sua página deve incluir uma galeria dos participantes do Grupo de Estudo; adicionar pessoas é uma ótima forma de mostrar quem compõe a sua comunidade e destacar seus novos amigos e colegas. Para adcionar alguém à esta lista, edite o arquivo `_data/members.yml` adicionando a seguinte seção para cada pessoa:
 
 ```
-- name: their human name
-  affiliation: school, lab, department, business....
-  github: their GitHub handle
-  interests:
-    - list one to three
-    - different interests
+- nome: o nome real da pessoa
+  afiliação: escola, laboratório, departamento, loja....
+  github: o endereço dele(a) no GitHub
+  interesses:
+    - liste de um a três
+    - interesses diferentes
 ```
