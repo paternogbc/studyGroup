@@ -49,26 +49,27 @@ Aqui você vai encontrar tudo que precisa para criar o seu próprio Website Grup
 
 É isso, você conseguiu! Você pode ver o seu website em 
 `https://yourUserName.github.io/studyGroup/`, substitua `yourUserName` pelo nome de usuário da sua conta do GitHub. Se essa for a primeira vez que você estiver criando uma página no GitHub, esse processo pode demorar 30 minutos para que tudo flua pelos computadores do GitHub – não se preocupe, é assim mesmo. Verifique novamente depois e o seu website estará no ar funcionando normalmente. 
-### Optional: Setting up a Google Calendar for your Study Group
 
-If you'd like to offer your community a calendar of events they can import into their own calendars, try using a Google Calendar. To set up, make a new google account, and update the variables in `_config.yml` under the heading 'Setup Google Calendar'.
+### Opcional: Configurando um Google Calendário para o seu Grupo de Estudos
 
-You can add events to your calendar by hand, but if you'd like to manage it automatically, there's a script to do so in `scripts/updateCalendar.py`; instructions for use are at the top of that file.
+Se você gostaria de oferecer um calendário de eventos para a sua comunidade para que eles possam importar seus próprios calendários, tente usar o Google Calendar. Para configurá-lo, faça um nova conta no Google, e atualize os campos no arquivo `_config.yml`, na seção 'Setup Google Calendar'.
 
-## How to Launch a New Event
+Você pode adicionar eventos ao seu calendário manualmente, mas se quiser automatizar esse processo, existe um script para fazer isso `scripts/updateCalendar.py`; as instruções de uso estão no topo do arquivo. 
 
-When you're ready to list a new event for your Study Group, follow these steps, or [watch this video](https://youtu.be/abglQgEIccw) where we walk you through event listing.
+## Como lançar um novo evento
 
- 1. **Make a new Issue to describe your event.** 
-   - Click on 'Issues' over on the right sidebar of your repo, 
-   - click the green 'New Issue' button near the top right. 
-   - You'll then see a form where you can give your event a title and a description - fill these out with all the relevant information:
-     - Where will your event be? Include a link to a map.
-     - When will it be? Date and time.
-     - Should people do anything to prepare beforehand (install any dependencies, set something up?)
- 2. **Go to the `_posts` directory**. It'll be at `https://github.com/yourUserName/studyGroup/tree/gh-pages/_posts` - or you can click on `_posts` in your repo.
- 3. **Make a new file** by clicking on the `+` sign beside `_posts/` Name it like the following:
+Quando você estiver pronto para apresentar um novo evento para o seu Grupo de Estudos, siga os próximos passos, ou [assista esse vídeo](https://youtu.be/abglQgEIccw) onde nós iremos te mostrar o passo a passo da lista de eventos.
 
+ 1. **Crie um novo Issue para descrever o seu evento.** 
+   - clique em 'Issues' no canto direito do seu repositório, 
+   - clique no botão verde 'New Issue' perto do canto direito superior. 
+   - Você irá ver um formulário onde é possível dar um título e uma descrição para o seu evento – preencha esses campos com todas as informações relevantes:
+     - Onde irá ocorrer o evento? Inclua o link para um mapa.
+     - Quando será? Data e hora.
+     - As pessoas precisam se preparar antes do evento? (instalar algum pacote?)
+ 2. **Vá para a pasta `_posts`**. Esta pasta se encontra em `https://github.com/yourUserName/studyGroup/tree/gh-pages/_posts` - ou você pode clicar em `_posts` no seu repositório.
+ 3. **Crie um novo arquivo** cliquando no sinal `+` ao lado de `_posts/`. Nomeie o arquivo seguindo esse padrão:
+ 4. 
     ```
     YYYY-MM-DD-word.markdown
     ```
