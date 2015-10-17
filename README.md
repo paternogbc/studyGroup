@@ -71,7 +71,7 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
     ```
 
     onde `YYYY-MM-DD` é a data do seu evento e `word` é qualquer palavra que quiser.
- 4. **Cut and paste the following into your new file:**
+ 4. **Copie e cole as seguintes informações no novo arquivo:**
  
     ```
     ---
@@ -85,9 +85,9 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
     ---
     ```
 
-    Change all the fields to describe your event; make sure the `link` is the address of the issue you created When you're done, click 'Commit Changes' at the bottom.
+    Modifique todos os campos para descrever o seu evento; certifique-se que o `link` é o endereço do issue que você criou, depois clique em `Commit Changes` no final da página.
 
-That's it! Your event is now listed on your webpage, and there's a discussion thread where people can ask questions and discuss the details. Events will be automatically removed from the schedule on the webpage when they're more than a week in the past - but the issue you created will always be there as a record of what you've done.
+É isso! O seu evento é está agora disponível em sua página. Além disso, existe um fórum de discussões para que as pessoas interessadas possam fazer perguntas e discutir os detalhes. Os eventos irão ser removidos automaticamente do cronograma da página uma semana depois da data do evento – mas o issue que foi criado estará sempre disponível como um registro do que você já realizou. 
 
 > **Event Listing Gotchas:** here are a few things to look out for when listing an event:
 >  - Did you remember to include the `---` above and below? The website builder needs those.
