@@ -21,16 +21,15 @@ Bem-vindo ao Grupo de Estudos Mozilla! Algumas coisas que você precisa saber e 
 
 ### Não está funcionando, eu preciso de ajuda
 
-Se algumas de nossas instruções não funcionar ou não fizer sentido, abra um [issue](https://github.com/mozillascience/studyGroup/issues) or email sciencelab@mozillafoundation.org.
+Se algumas de nossas instruções não funcionam ou não fazem sentido, abra um issue  [issue](https://github.com/mozillascience/studyGroup/issues) ou envie um email sciencelab@mozillafoundation.org.
 
 ### Confira o manual
-Check out the Handbook
 
-As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)!
+As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)! (em inglês)
 
-## Como criar o seu próprio Website Grupo de Estudo Mozilla?
+## Como criar o site do seu próprio Grupo de Estudo Mozilla?
 
-Aqui você vai encontrar tudo que precisa para criar o seu próprio Website Grupo de Estudo Mozilla e organizar os seus eventos. Siga os próximos passos e seu site estará funcionando em breve. Se você encontrar problemas, [abra um issue](https://github.com/mozillascience/studyGroup/issues) e nós podemos te ajudar.
+Aqui você vai encontrar tudo que precisa para criar o seu próprio Website Grupo de Estudo Mozilla e organizar os seus eventos. Siga os próximos passos e seu site estará funcionando em breve. Se você encontrar problemas, [abra um issue](https://github.com/mozillascience/studyGroup/issues), nós podemos te ajudar.
 
  1. **Crie um conta no GitHub.** O plano gratuito é suficiente.
  2. **Fork esse repositório.** No canto superior direito desta página tem um botão que diz 'Fork'; clique nele! Isso irá fazer uma cópia de todo esse material na sua própria conta do GitHub; Quando a cópia estiver pronta, o GitHub irá automaticamente te redirecionar para lá. 
