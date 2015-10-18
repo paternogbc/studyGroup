@@ -90,9 +90,9 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
 É isso! O seu evento é está agora disponível em sua página. Além disso, existe um fórum de discussões para que as pessoas interessadas possam fazer perguntas e discutir os detalhes. Os eventos irão ser removidos automaticamente do cronograma da página uma semana depois da data do evento – mas o issue que foi criado estará sempre disponível como um registro do que você já realizou. 
 
 > **Dicas sobre a lista de eventos** here are a few things to look out for when listing an event:
->  - Did you remember to include the `---` above and below? The website builder needs those.
->  - Can't find the issue tracker? Remember to turn it on under the 'Settings' menu on the right.
->  - The seven fields need to be on exactly one line each; some text editors will insert line breaks into lines that are too long; remove these if so.
+>  - Você se lembrou de incluir `---` abaixo e acima? O compilador do site precisa disso.
+>  - Não consegue encontrar o monitor de issues? Lembre de ativar no menu 'Settings' no canto direito.
+>  - Os sete campos precisam estar cada um em uma linha; alguns editores de texto irão incluir quebras de linhas muito longas; remova se necessário.
 
 ## Como manter contato com os membros
 
