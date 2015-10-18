@@ -25,7 +25,7 @@ Se algumas de nossas instruções não funcionam ou não fazem sentido, abra um 
 
 ### Confira o manual
 
-As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)! (em inglês)
+As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)(em inglês)! 
 
 ## Como criar o site do seu próprio Grupo de Estudo Mozilla?
 
