@@ -21,11 +21,11 @@ Bem-vindo ao Grupo de Estudos Mozilla! Algumas coisas que você precisa saber e 
 
 ### Não está funcionando, eu preciso de ajuda
 
-Se algumas de nossas instruções não funcionam ou não fazem sentido, abra um issue  [issue](https://github.com/mozillascience/studyGroup/issues) ou envie um email sciencelab@mozillafoundation.org.
+Se algumas de nossas instruções não funcionam ou não fazem sentido, abra um issue  [issue](https://github.com/mozillascience/studyGroup/issues) ou envie um email para sciencelab@mozillafoundation.org.
 
 ### Confira o manual
 
-As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/)(em inglês)! 
+As intruções abaixo irão ajudar você a organizar as ferramentas online para o seu Grupo de Estudos Mozilla – mas se você estiver procurando por informações sobre estratégias de organização, planajemaneto de eventos e aulas, confira o [Manual do Grupo de Estudo Mozilla](https://mozillascience.github.io/studyGroupHandbook/) (em inglês)! 
 
 ## Como criar o site do seu próprio Grupo de Estudo Mozilla?
 
