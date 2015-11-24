@@ -12,7 +12,7 @@ amigável e sem pressão onde as pessoas possam compartilhar seus trabalhos, ped
 
 Bem-vindo ao Grupo de Estudos Mozilla! Algumas coisas que você precisa saber e fazer agora que está aqui:
 
- - **Acompanhe este repositório:** lá em cima à direita, há um botão que diz "Watch"; clique nele e selecione 'Watching'. Isso fará com que você recebe notificações de novas discussões do grupo no seu e-mail; se você não quer receber e-mails com atualizações, mas gostaria de ser alertado no GitHub, altere as configurações em Settings -> Notification Center ('Settings' é a pequena engrenagem na barra lateral à direita). 
+ - **Acompanhe este repositório:** lá em cima à direita, há um botão que diz "Watch"; clique nele e selecione 'Watching'. Isso fará com que você receba notificações de novas discussões do grupo no seu e-mail; se você não quer receber e-mails com atualizações, mas gostaria de ser alertado no GitHub, altere as configurações em Settings -> Notification Center ('Settings' é a pequena engrenagem na barra lateral à direita). 
  - **Acompanhe nossas discussões:** clique em 'issues' na barra lateral à direita; é neste local onde todas as discussões desse grupo de estudos acontecem. Use esse espaço para fazer perguntas, requisitar eventos, fazer sugestões ou apenas dar um alô.
  - **Leia nosso código de conduta:** este Grupo de Estudos é para todos - nós somos guiados por um [conjunto de regras](https://www.mozillascience.org/code-of-conduct/) que solicita que todos sejam tratados com respeito. Ajude-nos a manter um espaço onde todos sintam-se bem-vindos e assim teremos um ótimo tempo juntos!
  - **Adicione-se a lista de membros:** Se você quiser aparecer na seção 'Quem somos nós' do nosso site, dê uma olhada em `_data/members.yml`; envie-nos um 'pull request' com os seus dados, ou abra um novo 'issue' com o seu pedido e nós faremos isso por você.
@@ -75,9 +75,9 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
  
     ```
     ---
-    title: Study Group Meetup
-    text: a one sentence description of your event
-    location: Hacky Hour Stadium
+    title: Encontro do grupo de Estudo
+    text: uma frase que descreva o evento
+    location: o Local do evento
     link: https://github.com/yourUserName/studyGroup/issues/1234
     date: 2016-01-04
     startTime: '15:00'
