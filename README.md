@@ -89,7 +89,7 @@ Quando você estiver pronto para apresentar um novo evento para o seu Grupo de E
 
 É isso! O seu evento é está agora disponível em sua página. Além disso, existe um fórum de discussões para que as pessoas interessadas possam fazer perguntas e discutir os detalhes. Os eventos irão ser removidos automaticamente do cronograma da página uma semana depois da data do evento – mas o issue que foi criado estará sempre disponível como um registro do que você já realizou. 
 
-> **Dicas sobre a lista de eventos** here are a few things to look out for when listing an event:
+> **Dicas sobre a lista de eventos**
 >  - Você se lembrou de incluir `---` abaixo e acima? O compilador do site precisa disso.
 >  - Não consegue encontrar o monitor de issues? Lembre de ativar no menu 'Settings' no canto direito.
 >  - Os sete campos precisam estar cada um em uma linha; alguns editores de texto irão incluir quebras de linhas muito longas; remova se necessário.
